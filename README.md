@@ -101,7 +101,7 @@
 - [x] Outline of Ultralytics YOLO v3
 - [x] [YOLO v3 Image and Video Inference](https://github.com/Seongwoong-sk/Computer_Vision_Perfect_Guide/blob/main/IV.%20YOLO(You%20Only%20Look%20Once)/yolov3_inference.ipynb)
 - [x] [Ultralytics YOLO v3 Training with coco128 Dataset](https://github.com/Seongwoong-sk/Computer_Vision_Perfect_Guide/blob/main/IV.%20YOLO(You%20Only%20Look%20Once)/yolov3_train_coco.ipynb) 
-- [x] --> train.py, Application of wandb(weight and bias), Summary of Train Process of Ultralytics Yolo Package
+- [x] --> train.py, Application of WanDB(weight and bias), Summary of Train Process of Ultralytics Yolo Package
 - [x] --> Understanding Difference between Relative Path and Absolute Path of Config & Weight file
 - [x] --> Structure of Data Directory and Mapping Data Config
 - [x] [Ultralytics YOLO v3 Training with Oxford Pet Dataset](https://github.com/Seongwoong-sk/Computer_Vision_Perfect_Guide/blob/main/IV.%20YOLO(You%20Only%20Look%20Once)/yolov3_train_oxpet.ipynb)
